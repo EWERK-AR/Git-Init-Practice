@@ -1,1 +1,2 @@
-This file serves the purpose of learning and testing the git init command. 
+This file serves the purpose of learning and testing the git init command.
+Origin successfully added in order to be able to push to GitHub.
