@@ -1,0 +1,1 @@
+This file serves the purpose of learning and testing the git init command. 
